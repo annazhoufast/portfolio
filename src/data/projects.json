@@ -1,0 +1,50 @@
+[
+    {
+      "ProjName": "Who's Free?",
+      "Time": "March 2020 - June 2020",
+      "Description": "A full stack project creating an easier way to schedule meetings.",
+      "URL": "https://jimhua32.me",
+      "Git": "https://github.com/annazhoufast/info441-finalproj",
+      "Img": "https://raw.githubusercontent.com/annazhoufast/portfolio/master/src/imgs/walk-buddy.png",
+      "Tools": "Golang, JS, AWS, Docker, SQL, HTML",
+      "LongerDesc": "This was my final project for INFO 441, Server-Side Development, and it was the first project where I was able to completely finish from prototype to product! As exciting as this milestone was, the steps to reach this were arduous and painstaking, but I developed an understanding of many concepts like Microservices, RestAPIs, Session Storage, and Middleware. Working in a group of 4, we created a way to schedule meetings, where the members of a specific group could see all of the available times of all members. The site implemented HTTPS and Login/Logout for users to protect user information. We also used relational theory to efficiently access the user information and free times."
+    },
+    {
+      "ProjName": "Walk Buddy",
+      "Time": "January 2020 - March 2020",
+      "Description": "A web application to optimize your walking routes.",
+      "URL": "https://info340d-au18.github.io/team-bread/#/",
+      "Git": "https://github.com/info340d-au18/team-bread",
+      "Img": "https://raw.githubusercontent.com/annazhoufast/portfolio/master/src/imgs/walk-buddy.png",
+      "Tools": "ReactJS, FireBase, Leaflet, MapBox",
+      "LongerDesc": "In Client-Side Development, I worked with my partner to create an application for users to find cool places to spice up their walking paths. Using MapBox, the Overpass API, and the Google Places API, we used the user’s location information and preferences to scope out places of interest for them. Another feature includes adding the places in their results to a “Favorites” page for future reference. "
+    },
+    {
+      "ProjName": "Emergency Services Database",
+      "Time": "September 2019 - December 2020",
+      "Description": "Creating a physical and logical Relational Database for handling calls for emergency services",
+      "URL": "https://docs.google.com/presentation/d/1QrzoUUGIMVxfsTZ8f7oywoLzghXH__qsrBl4Ke52OoU/edit?usp=sharing",
+      "Img": "https://raw.githubusercontent.com/annazhoufast/portfolio/master/src/imgs/walk-buddy.png",
+      "Tools": "SQL, Relational Theory",
+      "LongerDesc": "I did not think I would have an affinity for relational databases at the beginning of the quarter, but after completing this Emergency Services Database, I gained respect and admiration for it (I promise I’m not being sardonic). My team of 3 people researched the Greater Seattle Area’s emergency response and designed our database to follow the guidelines."
+    },
+    {
+      "ProjName": "Google Parking",
+      "Time": "September 2019 - December 2020",
+      "Description": "Designing a more convenient way to find parking in Seattle",
+      "URL": "https://drive.google.com/file/d/1MWC6uHLPk5ACXbM9EgYpbEkmvbaXWIc3/view?usp=sharing",
+      "Img": "https://raw.githubusercontent.com/annazhoufast/portfolio/master/src/imgs/walk-buddy.png",
+      "Tools": "Figma",
+      "LongerDesc": "In my Design Thinking course, I became aware of all of the details and research necessary to even create a low fidelity prototype for a specific issue.  Creating a high fidelity prototype, design specification, and prototype video gave me a better understanding and appreciation of the user experience process. For our final project, my team and I wanted to alleviate some stress of finding parking for drivers in Seattle."
+    },
+    {
+      "ProjName": "HuskyTech Datathon",
+      "Time": "February 2020",
+      "Description": "Analyzing Seattle Crime rate",
+      "URL": "https://docs.google.com/presentation/d/1YBOIRTzTn1tflaZso4DqE33Px_a1k9X2ftZOcnqBJdk/edit#slide=id.p",
+      "Git": "https://github.com/ktptran/data_hackathon_Feb15th",
+      "Img": "https://raw.githubusercontent.com/annazhoufast/portfolio/master/src/imgs/walk-buddy.png",
+      "Tools": "Python",
+      "LongerDesc": "The HuskyTech Datathon was actually my first hackathon/datathon experience! It was so fun to utilize my data science skills from class for something that was not a homework assignment. Our team won Best Insight for our presentation!"
+    }
+  ]

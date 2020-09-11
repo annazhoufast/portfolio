@@ -1,0 +1,37 @@
+[
+  {
+    "JobName": "Volunteer Project Manager and Backend Developer",
+    "Company": "Northwest Health Career Path",
+    "Description": "I am currently the Project Manager for the Backend team to redesign and rebuild the Northwest Health Career Path's website.",
+    "URL": "http://nwhealthcareerpath.uw.edu/",
+    "LongerDesc": "I am just starting this project! More details to come"
+   },
+    {
+      "JobName": "Undergraduate Teaching Assistant",
+      "Company": "The Information School",
+      "Description": "I am currently a Teaching Assistant for INFO 200, the Informatics introduction course, which teaches the spectrum that Informatics can be applied to and basic design and research principles that goes behinds building a project.",
+      "URL": "https://ischool.uw.edu/programs/informatics/curriculum",
+      "LongerDesc": "Before COVID-19, I led weekly in person discussion sections focused on the topic of the week. But throughout the year, I held office hours and advised my students on their final group project. Their research project focused on an area they wanted to help, and I provided critique and insight for any questions they had during the quarter."
+    },
+    {
+      "JobName": "Database Intern",
+      "Company": "Virtual Job Fair",
+      "Description": "I am currently on the Profile Management Team, working on designing and implementing the profiles for applicants and professionals to set up accounts.",
+      "URL":"",
+      "LongerDesc": "I work with my team of 4 people to create the logical and physical database, using relational theory for the user profile of Virtual Job Fair. I also wrote INSERT Stored Procedures for many tables with foreign keys for easy data entry into the database."
+    },
+    {
+      "JobName": "Bioinformatics Intern",
+      "Company": "Refuge Biotechnologies",
+      "Description": "I worked on creating a pipeline to simplify the RNA data analysis for researchers.",
+      "URL":"https://refugebiotech.com/",
+      "LongerDesc":"I worked independently using Cromwell and WDL to create this pipeline, transforming 20 GB files into 50 MB files for the scientists to use."
+    },
+    {
+      "JobName": "Campus Ambassador",
+      "Company": "#BUILTBYGIRLS",
+      "Description": "I am working to expose #BUILTBYGIRLS on my University campus and connect aspiring female and nonbinary students to industry professionals.",
+      "URL":"https://www.builtbygirls.com/",
+      "LongerDesc":"I spend my time going across campus to spread the name of #BUILTBYGIRLS on UW."
+    }
+  ]
