@@ -12,7 +12,7 @@ class Doc extends React.Component {
 
   render() {
     return (
-      <b>test</b>
+      <b></b>
     )
   }
 }

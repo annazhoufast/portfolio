@@ -58,15 +58,6 @@ export class Sidebar extends React.Component {
                             <li>
                                 <Link to="/about">About</Link>
                             </li>
-                            {/* <li>
-                                <Link to="/">Experience</Link>
-                            </li> */}
-                            {/* <li>
-                                <a href="#projects">Projects</a>
-                                {/* <ScrollableAnchor id={"projects"}>
-                                    <ProjectList/>
-                                </ScrollableAnchor> */}
-                            {/* </li> */}
                             <li>
                                 <a target="blank" href="https://annazhou.pixieset.com/">Photography</a>
                             </li>
