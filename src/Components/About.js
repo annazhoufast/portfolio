@@ -1,6 +1,9 @@
 import React, {Component} from 'react';
 import {Container, Row, Col, Image} from 'react-bootstrap';
 import image from "../imgs/DSC_0999.jpg";
+// import {faLink, fa} from '@fortawesome/free-solid-svg-icons';
+import {faGithub, faTwitter} from '@fortawesome/free-brands-svg-icons';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 
 export class About extends React.Component {
     render() {
@@ -9,11 +12,23 @@ export class About extends React.Component {
                 <Row>
                     <Col>
                         <Image id="picAnna" src={image}/>
-                        <a href="mailto:annaz4@uw.edu">
-                            <h4 className="emailTo shortBio">
-                                Message Me!
-                            </h4>
-                        </a>
+                        <Row>
+                            <Col>
+                                <h4 className="emailTo">
+                                    <a href="https://github.com/annazhoufast" className="emailTo">
+                                        <FontAwesomeIcon icon={faGithub}></FontAwesomeIcon>
+                                    </a>
+                                    <a href="https://twitter.com/annaqzhou" className="emailTo">
+                                        <FontAwesomeIcon icon={faTwitter}></FontAwesomeIcon>
+                                    </a>
+                                </h4>
+                                <a href="mailto:annaz4@uw.edu">
+                                    <h4 className="emailTo shortBio">
+                                        Message Me!
+                                    </h4>
+                                </a>
+                            </Col>
+                        </Row>
                     </Col>
                     <Col>
                         <h4 className="shortBio">
@@ -36,7 +51,6 @@ export class About extends React.Component {
                             taking pictures, swimming, painting, and going on long hikes. 
                             <br></br>
                             <br></br>
-                            Also, please vote if you are able this year!
                         </p>
                     </Col>
                 </Row>

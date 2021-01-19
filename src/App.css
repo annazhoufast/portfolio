@@ -261,6 +261,9 @@ main {
 
 .emailTo {
   float: right;
+  padding-left: 0.5rem;
+  color: #1f4e5f;
+  /* padding-right: 0.5rem; */
 }
 
 .hamColor {
